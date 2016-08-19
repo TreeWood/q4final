@@ -1,0 +1,63 @@
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\obj\x86\Debug\Quarter4Project.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\tileSheet.xnb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\wallSheet.xnb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Fonts\Consolas.xnb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Background\1.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Background\2.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Objects\1.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Objects\2.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Portals\1.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Portals\2.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Walls\1.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Walls\2.txt
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Quarter4Project.exe
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Quarter4Project.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\obj\x86\Debug\Quarter4Project.exe
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\obj\x86\Debug\Quarter4Project.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Backgrounds\Splash.xnb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\BulletPlaceHolder.xnb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\cursor.xnb
+c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\menuTexture.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\flameThrower.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Fonts\Consolas12.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\pistol.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\assaultRifle.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\rifle.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\shotgun.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\smg.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\enemySheet.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\light.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Effects\lighting.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Fonts\FixedSys.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Fonts\FixedSys.bmp
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\SoundEffects\shot gun.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\SoundEffects\9mm.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\SoundEffects\Rifle.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\weaponSheet.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Oops by Darian Cassel.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Project 2.3.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Project 4.67.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Castle Of The AntiReality By Darian Cassel.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Enter The Omega- Epsillon.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Game On By Darian Cassel.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Minions Of The AntiReality- The Rogues By Darian Cassel.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\At Dawns Edge By Darian Cassel.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\GaTEs To NowhErE by Darian Cassel.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Ice of Pheonix By Darian Cassel and Audiomachine.xnb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Castle Of The AntiReality By Darian Cassel.wma
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Enter The Omega- Epsillon.wma
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Game On By Darian Cassel.wma
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Minions Of The AntiReality- The Rogues By Darian Cassel.wma
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\At Dawns Edge By Darian Cassel.wma
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\GaTEs To NowhErE by Darian Cassel.wma
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Ice of Pheonix By Darian Cassel and Audiomachine.wma
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Backgrounds\Background.xnb
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\windowBG.xnb
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Lights\1.txt
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Lights\2.txt
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Enemy\1.txt
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\playerSheet.xnb
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Maps\1\Enemy\2.txt
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\BloodTex.xnb
+C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\Particle.xnb

@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\tileSheet.png</Source>
+      <Name>Sprites\tileSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\tileSheet.xnb</Output>
+      <Time>2015-05-28T01:39:45.8318167-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\wallSheet.png</Source>
+      <Name>Sprites\wallSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\wallSheet.xnb</Output>
+      <Time>2015-05-06T23:34:18.6234183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Consolas.spritefont</Source>
+      <Name>Fonts\Consolas</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Fonts\Consolas.xnb</Output>
+      <Time>2015-05-03T17:02:44.2042388-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Splash.png</Source>
+      <Name>Backgrounds\Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Backgrounds\Splash.xnb</Output>
+      <Time>2015-05-03T17:01:47.6420405-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BulletPlaceHolder.png</Source>
+      <Name>Images\BulletPlaceHolder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\BulletPlaceHolder.xnb</Output>
+      <Time>2015-05-11T13:26:04.3008297-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\cursor.png</Source>
+      <Name>Images\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\cursor.xnb</Output>
+      <Time>2015-05-03T19:11:04.8699767-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\menuTexture.png</Source>
+      <Name>Sprites\menuTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\menuTexture.xnb</Output>
+      <Time>2015-05-04T07:25:22.5639569-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\flameThrower.png</Source>
+      <Name>Images\flameThrower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\flameThrower.xnb</Output>
+      <Time>2015-05-08T09:05:59.926084-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Consolas12.spritefont</Source>
+      <Name>Fonts\Consolas12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Fonts\Consolas12.xnb</Output>
+      <Time>2015-05-08T21:04:35.1041708-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pistol.png</Source>
+      <Name>Images\pistol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\pistol.xnb</Output>
+      <Time>2015-05-08T08:28:48.7988186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\assaultRifle.png</Source>
+      <Name>Images\assaultRifle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\assaultRifle.xnb</Output>
+      <Time>2015-05-08T09:11:58.8215321-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\rifle.png</Source>
+      <Name>Images\rifle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\rifle.xnb</Output>
+      <Time>2015-05-08T09:09:52.1817486-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\shotgun.png</Source>
+      <Name>Images\shotgun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\shotgun.xnb</Output>
+      <Time>2015-05-08T09:05:35.344662-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\smg.png</Source>
+      <Name>Images\smg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\smg.xnb</Output>
+      <Time>2015-05-08T09:08:03.5417252-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemySheet.png</Source>
+      <Name>Sprites\enemySheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\enemySheet.xnb</Output>
+      <Time>2015-05-08T12:06:31.1961145-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\light.png</Source>
+      <Name>Images\light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\light.xnb</Output>
+      <Time>2015-05-08T12:19:08.7471958-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\lighting.fx</Source>
+      <Name>Effects\lighting</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Effects\lighting.xnb</Output>
+      <Time>2015-05-08T12:11:46.422599-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\FixedSys.bmp</Source>
+      <Name>Fonts\FixedSys</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Fonts\FixedSys.xnb</Output>
+      <Time>2015-05-09T12:04:12.5030772-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\shot gun.wav</Source>
+      <Name>SoundEffects\shot gun</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\SoundEffects\shot gun.xnb</Output>
+      <Time>2015-05-09T12:19:13.7633686-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\9mm.wav</Source>
+      <Name>SoundEffects\9mm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\SoundEffects\9mm.xnb</Output>
+      <Time>2015-05-09T12:22:12.2500867-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Rifle.wav</Source>
+      <Name>SoundEffects\Rifle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\SoundEffects\Rifle.xnb</Output>
+      <Time>2015-05-09T12:24:42.3143524-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\weaponSheet.png</Source>
+      <Name>Sprites\weaponSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\weaponSheet.xnb</Output>
+      <Time>2015-05-12T08:08:24.8927336-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Oops by Darian Cassel.wav</Source>
+      <Name>Songs\Oops by Darian Cassel</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Oops by Darian Cassel.xnb</Output>
+      <Time>2015-05-13T13:10:52.2990914-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Project 2.3.wav</Source>
+      <Name>Songs\Project 2.3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Project 2.3.xnb</Output>
+      <Time>2015-05-13T13:10:52.9805745-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Project 4.67.wav</Source>
+      <Name>Songs\Project 4.67</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Project 4.67.xnb</Output>
+      <Time>2015-05-13T13:10:53.6000128-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Castle Of The AntiReality By Darian Cassel.mp3</Source>
+      <Name>Songs\Castle Of The AntiReality By Darian Cassel</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Castle Of The AntiReality By Darian Cassel.xnb</Output>
+      <Extra>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Castle Of The AntiReality By Darian Cassel.wma</Extra>
+      <Time>2015-05-13T13:10:51.401455-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Enter The Omega- Epsillon.mp3</Source>
+      <Name>Songs\Enter The Omega- Epsillon</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Enter The Omega- Epsillon.xnb</Output>
+      <Extra>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Enter The Omega- Epsillon.wma</Extra>
+      <Time>2015-05-13T13:10:51.5695737-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Game On By Darian Cassel.mp3</Source>
+      <Name>Songs\Game On By Darian Cassel</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Game On By Darian Cassel.xnb</Output>
+      <Extra>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Game On By Darian Cassel.wma</Extra>
+      <Time>2015-05-13T13:10:51.6296163-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Minions Of The AntiReality- The Rogues By Darian Cassel.mp3</Source>
+      <Name>Songs\Minions Of The AntiReality- The Rogues By Darian Cassel</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Minions Of The AntiReality- The Rogues By Darian Cassel.xnb</Output>
+      <Extra>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Minions Of The AntiReality- The Rogues By Darian Cassel.wma</Extra>
+      <Time>2015-05-13T13:10:51.6876664-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\At Dawns Edge By Darian Cassel.mp3</Source>
+      <Name>Songs\At Dawns Edge By Darian Cassel</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\At Dawns Edge By Darian Cassel.xnb</Output>
+      <Extra>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\At Dawns Edge By Darian Cassel.wma</Extra>
+      <Time>2015-05-13T13:11:10.4059274-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\GaTEs To NowhErE by Darian Cassel.mp3</Source>
+      <Name>Songs\GaTEs To NowhErE by Darian Cassel</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\GaTEs To NowhErE by Darian Cassel.xnb</Output>
+      <Extra>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\GaTEs To NowhErE by Darian Cassel.wma</Extra>
+      <Time>2015-05-13T13:11:10.510002-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Ice of Pheonix By Darian Cassel and Audiomachine.mp3</Source>
+      <Name>Songs\Ice of Pheonix By Darian Cassel and Audiomachine</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Ice of Pheonix By Darian Cassel and Audiomachine.xnb</Output>
+      <Extra>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Songs\Ice of Pheonix By Darian Cassel and Audiomachine.wma</Extra>
+      <Time>2015-05-13T13:11:10.5880569-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Background.png</Source>
+      <Name>Backgrounds\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Backgrounds\Background.xnb</Output>
+      <Time>2015-05-20T10:03:10.5488366-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\windowBG.png</Source>
+      <Name>Images\windowBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\windowBG.xnb</Output>
+      <Time>2015-05-23T18:21:03.1094916-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\playerSheet.png</Source>
+      <Name>Sprites\playerSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Sprites\playerSheet.xnb</Output>
+      <Time>2015-05-28T08:47:29.3249399-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BloodTex.png</Source>
+      <Name>Images\BloodTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\BloodTex.xnb</Output>
+      <Time>2015-05-28T09:42:10.3150383-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Particle.png</Source>
+      <Name>Images\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\Images\Particle.xnb</Output>
+      <Time>2015-05-28T09:24:30.1935227-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5F0DB853-A04D-4726-861B-92CEB7297ACB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ryan\documents\visual studio 2013\Projects\Quarter4Project\Quarter4Project\Quarter4Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-12T08:32:05.1948606-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
